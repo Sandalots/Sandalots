@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Sandalots and this is my GitHub profile 🥇.
-- 👀 I’m interested in all aspects of Computer Science.
-- 🌱 I’m currently learning [REDACTED].
-- 💞️ I’m looking to collaborate on: [REDACTED].
-- 📫 How to reach me: lglspro@outlook.com.
+
 
 <!---
 Sandalots/Sandalots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
