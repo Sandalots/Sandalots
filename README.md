@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandalots and this is my GitHub profile 🥇.
-- Gunzo two kwang
+- Gunzo two kwang delta
 
 <!---
 Sandalots/Sandalots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
