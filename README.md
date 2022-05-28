@@ -2,6 +2,7 @@
 - 💰 Buckaroonies in production.
 - 🔨 W.I.P ;).
 - 🧛 Morbin'
+- Jared Leto's Morbius.
 
 
 <!---
