@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Sandalots and this is my GitHub profile 🥇.
 - 💰 Buckaroonies in production.
 - 🔨 W.I.P :).
-- 🧛 Morbin' with Leto.
-- 🇯🇱 Jared Leto's Morbius.
-- Dr Michael Morbius superfan.
-- Bogged SAND.
+- 
 
 
 <!---
