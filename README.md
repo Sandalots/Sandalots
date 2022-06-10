@@ -3,6 +3,7 @@
 - 🔨 W.I.P.
 - 🌎 Amanteni III constallation.
 
+![bojo](https://user-images.githubusercontent.com/59518103/173134527-0a01e36b-89f8-4718-8afd-65391c0d07b3.jpg)
 
 
 <!---
