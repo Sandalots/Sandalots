@@ -3,7 +3,7 @@
 - 🌎 Amanteni III.
 - 🔨 W.I.P. 
 
-![bojo]
+
 
 
 <!---
