@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandalots and this is my GitHub profile 🥇.
 - 💰 Buckaroonies in production.
 - 🌎 Amanteni III.
-- 🔨 W.I.P. 
+- 🔨 W.I.P.
 
 
 
