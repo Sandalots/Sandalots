@@ -2,7 +2,7 @@
 - 💰 Buckaroonies in production.
 - 🪵 Woodpicker.
 - 🌎 Amanteni III.
-- 🔮 Volneer.
+- 🔮 Volneer, Capital City.
 - 🔨 W.I.P.
 
 
