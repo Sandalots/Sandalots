@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandalots and this is my GitHub profile 🥇.
-- 💰 Buckaroonies in production.
+- 💰 Buckaroonies.
 - 🪵 Woodpicker.
 - 🌎 Amanteni III.
 - 🔮 Volneer, Capital City.
