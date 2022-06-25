@@ -1,5 +1,5 @@
 # ✨ Welcome
-- 👋 Hi, I’m @Sandalots and this is my GitHub profile.
+- 👋 Hi, I’m @Sandalots and this is my GitHub Profile.
 - 💰 Buckaroonies.
 - 🪵 Woodpicker.
 - 🌎 Amanteni III.
