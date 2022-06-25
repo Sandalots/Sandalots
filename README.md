@@ -3,13 +3,13 @@
 - Enjoy your stay!
 
 ## ✨ Menu
-- 💰 Buckaroonies.
-- 🪵 Woodpicker.
-- 🌎 Amanteni III.
-- 🔮 Volneer.
-- 🔨 W.I.P 
+- 💰 Buckaroonies
+- 🪵 Woodpicker
+- 🌎 Amanteni III
+- 🔮 Volneer
+- 🔨 W.I.P
 # ✨ Next
-- Buckaroonies.
+- Buckaroonies
 
 <!---
 Sandalots/Sandalots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
