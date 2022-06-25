@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Sandalots and this is my GitHub Profile.
 - Enjoy your stay!
 
-## ✨ Menu
+# ✨ Menu
 - 💰 Buckaroonies
 - 🪵 Woodpicker
 - 🌎 Amanteni III
