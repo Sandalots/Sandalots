@@ -7,7 +7,7 @@
 - 🪵 Woodpicker
 - 🌎 Amanteni III
 - 🔮 Volneer
-- 🔨 W.I.P
+- 🔨 W.I.P.
 # ✨ Next
 - Buckaroonies
 - Valneer
