@@ -8,11 +8,11 @@
 - 🪵 Woodpicker
 - 🌎 Amanteni III
 - 🔮 Valneer
-- 🔨 W.I.P
 
 # ✨ Next
 - 💰 Buckaroonies
 - 🔮 Valneer
+- 🔨 W.I.P
 ---
 <!---
 Sandalots/Sandalots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
