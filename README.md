@@ -11,6 +11,7 @@
 
 # ✨ Next
 - 💰 Buckaroonies
+- 🪵 Woodpicker
 - 🔮 Valneer
 - 🔨 W.I.P.
 ---
