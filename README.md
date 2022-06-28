@@ -5,13 +5,7 @@
 - 🍹 Enjoy your stay and have fun!
 # ✨ Menu
 - 💰 Buckaroonies
-- 🪵 Woodpicker
-- 🌎 Amanteni III
-- 🔮 Valneer
 # ✨ Next
-- 💰 Buckaroonies
-- 🪵 Woodpicker
-- 🔮 Valneer
 - 🔨 W.I.P
 
 ---
