@@ -1,5 +1,4 @@
 ---
-
 # ✨ Welcome
 - 👋 Hi, I’m @Sandalots and this is my GitHub Profile.
 - 🍹 Enjoy your stay and have fun!
@@ -7,7 +6,6 @@
 - 💰 Buckaroonies
 # ✨ Next
 - 🔨 W.I.P
-
 ---
 <!---
 Sandalots/Sandalots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
