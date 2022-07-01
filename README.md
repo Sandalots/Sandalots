@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Sandalots and this is my GitHub Profile.
 - 🍹 Enjoy your stay and have fun!
 # ✨ Menu
-Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile
+Click [here](https://www.sandymacdonald.co.uk) to go to my Personal Website.
 # ✨ Next
 - 🔨 W.I.P
 - 💰 Buckaroonies
