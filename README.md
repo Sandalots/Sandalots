@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Sandalots and this is my GitHub Profile.
 - 🍹 Enjoy your stay and have fun!
 # ✨ Menu
-- [The Great Intelligence](https://www.sandymacdonald.co.uk)
+[I'm an inline-style link](https://www.google.com)
 
 # ✨ Next
 - 🔨 W.I.P
