@@ -3,10 +3,10 @@
 - 👋 Hi, I’m @Sandalots and this is my GitHub Profile.
 - 🍹 Enjoy your stay and have fun!
 # ✨ Menu
-- 🤓 The Great Intelligence
+- 🤓 [The Great Intelligence](www.sandymacdonald.co.uk)
 # ✨ Next
 - 🔨 W.I.P
-💰 Buckaroonies
+-💰 Buckaroonies
 ---
 <!---
 Sandalots/Sandalots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
