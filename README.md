@@ -3,8 +3,8 @@
 - 👋 Hi, I’m @Sandalots and this is my GitHub Profile.
 - 🍹 Enjoy your stay and have fun!
 # ✨ Menu
-[I'm an inline-style link](https://www.google.com)
-
+- Scripts
+- See! Easy: [Go to Real Cool Heading section](#real-cool-heading)  
 # ✨ Next
 - 🔨 W.I.P
 - 💰 Buckaroonies
