@@ -6,7 +6,7 @@
 -  [The Great Intelligence](https://www.sandymacdonald.co.uk).
 # ✨ Next
 - 🔨 W.I.P
--💰 Buckaroonies
+- 💰 Buckaroonies
 ---
 <!---
 Sandalots/Sandalots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
