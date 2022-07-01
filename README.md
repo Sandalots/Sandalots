@@ -3,8 +3,7 @@
 - 👋 Hi, I’m @Sandalots and this is my GitHub Profile.
 - 🍹 Enjoy your stay and have fun!
 # ✨ Menu
-- Scripts
-- See! Easy: [Go to Real Cool Heading section](#real-cool-heading)  
+- sandymacdonald.co.uk
 # ✨ Next
 - 🔨 W.I.P
 - 💰 Buckaroonies
