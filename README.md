@@ -5,7 +5,7 @@
 - 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk)
 -
 # ✨ Next
-- MojaveMail
+- 🏜️ MojaveMail
 - 💰 Buckaroonies
 - 🌴 Sneedy Springs
 - 🔨 W.I.P.
