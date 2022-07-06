@@ -1,9 +1,9 @@
 # ✨ Welcome
 - 👋 Hi, I’m @Sandalots and this is my GitHub Profile.
 - 🍹 Enjoy your stay and have fun!
+
 # ✨ Menu
 - 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk)
--
 
 # ✨ Next
 - 🏜️ MojaveMail
