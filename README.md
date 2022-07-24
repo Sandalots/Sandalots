@@ -4,10 +4,8 @@
 
 
 
-
 # ✨ Menu
 - 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk)
-
 
 
 
@@ -15,7 +13,6 @@
 - 🏜️ MojaveMail
 - 💰 Buckaroonies
 - 🌴 Sneedy Springs
-
 
 
 
