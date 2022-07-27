@@ -8,7 +8,6 @@
 
 
 # ✨ Next
-- 🏜️ MojaveMail
 - 💰 Buckaroonies
 - 🌴 Sneedy Springs
 
