@@ -3,7 +3,6 @@
 - 🍹 Enjoy your stay and have fun!
 
 
-
 # ✨ Menu
 - 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk)
 
