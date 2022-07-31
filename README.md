@@ -1,13 +1,13 @@
-# ✨ Welcome
+# ✨ Welcome!
 - 👋 Hi, I’m @Sandalots and this is my personal GitHub Profile.
 - 🍹 Enjoy your stay and have fun!
 
 
-# ✨ Menu
+# ✨ Menu!
 - 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk)
 
 
-# ✨ Next
+# ✨ Next!
 - 💰 Buckaroonies
 - 🌴 Sneedy Springs
 
