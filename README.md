@@ -1,6 +1,6 @@
 # ✨ Welcome!
 - 👋 Hi, I’m @Sandalots and this is my personal GitHub Profile.
-- 🍹 Enjoy your stay and have fun!
+- 🍹 Enjoy your stay and have fun! :)
 
 
 # ✨ Menu.
