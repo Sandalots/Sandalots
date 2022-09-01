@@ -9,7 +9,7 @@
 
 # ✨ Next.
 - 💰 Buckaroonies.
-- GOLLE-Model.
+- 🤖 GOLLE-Model.
 
 
 <!---
