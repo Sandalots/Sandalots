@@ -4,7 +4,7 @@
 
 
 # ✨ Menu.
-- 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk)
+- 🧑‍ [The Great Intelligence.](https://www.sandymacdonald.co.uk)
 
 
 # ✨ Next.
