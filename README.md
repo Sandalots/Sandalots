@@ -11,7 +11,6 @@
 
 # ✨ Next.
 - 💰 Buckaroonies.
-- 🤖 GOLLe.
 
 
 
