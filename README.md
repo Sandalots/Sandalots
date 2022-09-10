@@ -9,7 +9,6 @@
 
 # ✨ Next.
 - 💰 Buckaroonies.
-- AG|R
 
 
 <!---
