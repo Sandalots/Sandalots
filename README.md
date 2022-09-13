@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Sandalots and this is my personal GitHub Profile.
 - 🍹 Enjoy your stay and have Fun!
 
-# ✨ Menu
+# ✨ Collection
 - 🧑‍ [The Great Intelligence.](https://www.sandymacdonald.co.uk)
 
 
