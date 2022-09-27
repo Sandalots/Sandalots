@@ -1,8 +1,6 @@
 # ✨ Welcome!
 - 👋 Hi, I’m Sandalots and this is my personal GitHub Profile.
 - 🍹 Enjoy your stay and have Fun!
-erlanger
-
 
 # ✨ Collection
 - 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk)
