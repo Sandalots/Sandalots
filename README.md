@@ -3,7 +3,7 @@
 - 🍹 Enjoy your stay and have Fun!
 
 # ✨ Collection
-- 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk)
+- 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk) - The Greatest Show in The Galaxy!
 
 # ✨ Next
 - 💰 Buckaroonies
