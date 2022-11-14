@@ -1,9 +1,9 @@
 # ✨ Welcome!
-- 👋 Hi, I’m Sandalots and this is my personal GitHub Profile.
-- 🍹 Enjoy your stay and have Fun!
+- 👋 Hi, I’m Sandalots and this is my personal GitHub profile.
+- 🍹 Enjoy your stay and have fun!
 
 # ✨ Collection
-- 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk) - The Greatest Show in The Galaxy!
+- 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk) - The Greatest Show in the Galaxy!
 
 # ✨ Next
 - 💰 Buckaroonies.
