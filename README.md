@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Sir Sandalots and this is my personal GitHub profile.
 - 🍹 Enjoy your stay and have fun!
 
-# ✨ Repositories
+# ✨ Stuff
 - 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk) - The Greatest Show in the Galaxy!
 
 <!---
