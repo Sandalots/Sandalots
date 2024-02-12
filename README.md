@@ -3,7 +3,7 @@
 - 🍹 Enjoy your stay and have fun!
 
 # ✨ Stuff
-- 🤓 [GriftWatch](https://github.com/Sandalots/GriftWatch/tree/main) - 
+- 🤓 [GriftWatch](https://github.com/Sandalots/GriftWatch/tree/main) - Rate & Curate grifters.
 - 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk) - The Greatest Show in the Galaxy!
 
 <!---
