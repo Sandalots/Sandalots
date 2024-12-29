@@ -1,5 +1,5 @@
 # ✨ Welcome!
-- 👋 Hi, I’m Sir Sandalots and this is my personal GitHub profile.
+- 👋 Hi, I’m Sir Sandalots and welcome to my personal GitHub profile.
 - 🍹 Enjoy your stay and have fun!
 
 # ✨ Some Stuff.
