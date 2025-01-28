@@ -1,5 +1,6 @@
 # ✨ Welcome!
 - 👋 Hi, I’m Sir Sandalots and welcome to my personal GitHub profile.
+- 🧀 Cheesed to meet you!
 - 🍹 Enjoy your stay and have fun!
 
 # ✨ Some Stuff.
