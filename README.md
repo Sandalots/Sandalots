@@ -7,4 +7,5 @@
 - 🤓 [GriftWatch](https://github.com/Sandalots/GriftWatch/tree/main) - Rate & Curate Grifters Android Application.
 - 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk) - The Greatest Show in the Galaxy!
 - 🤫 [Mystify](https://github.com/Sandalots/Mystify) - Bring your own device encryption client(s), using random states sourced from local raspberry pi nodes.
-- ✍️[Studies in Shakespeare](https://github.com/Sandalots/Studies-in-Shakespeare) - A collection of next-word-predicting models based on the entire known works of Mr William Shakespeare.
+- ✍️ [Studies in Shakespeare](https://github.com/Sandalots/Studies-in-Shakespeare) - A collection of next-word-predicting models based on the entire known works of Mr William Shakespeare.
+- 🍷 [A Dive into Wine](https://github.com/Sandalots/A-Dive-into-Wine/tree/main) - Wine Classification through several ML based approaches.
