@@ -6,7 +6,7 @@
 
 # ✨ Some of my Stuff.
 - 🔧 [Sicher C Compiler](https://github.com/Sandalots/SicherC) - Memory safe-ish primitive C compiler written in object-oriented Python 3.
-- 🗡️ [EXCALIBUR](https://github.com/Sandalots/EXCALIBUR) - Medical questioning and answering inference optimised and distilled for a compute and memory strained Raspberry Pi 5 2GB target.
+- 🗡️ [EXCALIBUR](https://github.com/Sandalots/EXCALIBUR) - Medical questioning and answering inference optimised and distilled for a compute and memory strained Raspberry Pi 5 2GB edge-IoT target.
 - 📝 [EVALLab](https://github.com/Sandalots/EVALLab) - Local, Llama3 powered paper reproduction agent with rails and reproduction integrity analysis.
 - 🎮 [ControlText](https://github.com/Sandalots/ControlText) - My text adventure adaptation of the video game Control (2019), written in Prolog.
 - 🤓 [GriftWatch](https://github.com/Sandalots/GriftWatch/tree/main) - Rate & Curate Grifters Android Application.
