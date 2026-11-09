@@ -4,6 +4,7 @@
 - 🍹 Enjoy your stay and have fun!
 
 # ✨ Some Stuff.
+- 🔧 [Sicher C Compiler](https://github.com/Sandalots/SicherC) - Memory safe-ish primitive C compiler written in object-oriented Python 3.
 - 🤓 [GriftWatch](https://github.com/Sandalots/GriftWatch/tree/main) - Rate & Curate Grifters Android Application.
 - 🧑‍ [The Great Intelligence](https://www.sandymacdonald.co.uk) - The Greatest Show in the Galaxy!
 - 🤫 [Mystify](https://github.com/Sandalots/Mystify) - Bring your own device encryption client(s), using random states sourced from local raspberry pi nodes.
