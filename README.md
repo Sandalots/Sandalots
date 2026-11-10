@@ -5,8 +5,7 @@
 - 🐇 Below is a list of some of my curated personal projects over the years.
 
 # ✨ Some of my Stuff.
-- 🗡️ [excalibur-medic](https://github.com/Sandalots/excalibur-medic) -A medical reference that fits in 2 GB and needs no internet: a 1B distilled model plus retrieval, running on a Raspberry Pi 5.
-- 🔧 [Sicher C Compiler](https://github.com/Sandalots/SicherC) - Memory safe-ish primitive C compiler written in object-oriented Python 3.
+- 🗡️ [excalibur-medic](https://github.com/Sandalots/excalibur-medic) -A interactive and promptable medical reference that fits in 2 GB and needs no internet: a 1B distilled model plus retrieval, running on a Raspberry Pi 5.
 - 📝 [EVALLab](https://github.com/Sandalots/EVALLab) - Local, Llama3 powered paper reproduction agent with rails and reproduction integrity analysis.
 - 🎮 [ControlText](https://github.com/Sandalots/ControlText) - My text adventure adaptation of the video game Control (2019), written in Prolog.
 - 🤓 [GriftWatch](https://github.com/Sandalots/GriftWatch/tree/main) - Rate & Curate Grifters Android Application.
